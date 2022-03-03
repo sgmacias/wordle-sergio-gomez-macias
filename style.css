@@ -1,0 +1,19 @@
+span[id="puntos"] button{
+    text-align: center;
+    margin: 5px;
+    align-items: center;
+    border: 2px solid gold;
+    border-color: yellow;
+    border-radius: 5px;
+}
+input[type="text"], button{
+    text-align: center;
+    margin: 5px;
+    align-items: center;
+    border-color: black;
+    border: 2px solid grey;
+    border-radius: 5px;
+    width: 70px;
+    height: 60px;
+    margin-top: 0px;
+}
